@@ -7,6 +7,7 @@
     <AssemblyName>AutoGobbler</AssemblyName>
     <RootNamespace>$(AutoGobbler.Replace(" ", "_"))</RootNamespace>
     <ApplicationIcon>GobblerICO.ico</ApplicationIcon>
+    <Copyright>Hoodstrats</Copyright>
   </PropertyGroup>
 
   <ItemGroup>

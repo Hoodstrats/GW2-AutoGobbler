@@ -1,5 +1,4 @@
-﻿//changed from struct to class to be able to make it nullable
-using System.Runtime.InteropServices;
+﻿using System.Runtime.InteropServices;
 
 [StructLayout(LayoutKind.Sequential)]
 public struct MousePoint
