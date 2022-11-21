@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Hoodstrats</Authors>
+    <AssemblyName>AutoGobbler</AssemblyName>
+    <RootNamespace>$(AutoGobbler.Replace(" ", "_"))</RootNamespace>
+    <ApplicationIcon>GobblerICO.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="GobblerICO.ico" />
+  </ItemGroup>
+
+</Project>
