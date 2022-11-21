@@ -19,7 +19,6 @@ public static class Program
     private static void GetUserInput()
     {
         Console.WriteLine("Press S to start auto clicker.\n");
-        Console.WriteLine("Press R to Record current mouse position.\n");
         WriteToConsole.Print("Press Q at anytime to Quit.\n", ConsoleColor.Red, false);
 
         var pressed = Console.ReadKey(true);

@@ -1,5 +1,5 @@
-##### Simple Corn Gobbler Auto Clicker
----
+## Simple Corn Gobbler Auto Clicker
+
 This is a simple Auto Clicker specifically made with Guild Wars 2 in mind. Some of 
 the program's short comings such as having to have your cursor on top of the item at 
 all times were purposely put in place to stay within Guild Wars's TOS. 
@@ -24,3 +24,6 @@ leave or alt tab from Guild Wars 2 (this is intentional to stay within the TOS)
 
 ###### Screenshots
 ![SS](screenshot.jpg)
+
+---
+###### *This should be within TOS but like all tools such as this one, use at your own risk.*
