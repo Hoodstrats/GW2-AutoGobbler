@@ -8,7 +8,7 @@ https://help.guildwars2.com/hc/en-us/articles/360013762153-Policy-Macros-and-Mac
 
 ###### Usage
 ---
-- Download the latest release [Latest]()
+- Download the latest release [Latest](https://github.com/Hoodstrats/GW2-AutoGobbler/releases/tag/Latest)
 - Open the program (small CLI program). It'll open up inside your default Windows
 Terminal. Follow the onscreen instructions. 
 - The cursor MUST be over the item you want to double click. 
